@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "686236266559",
+    "project_id": "oreview-76c6b",
+    "storage_bucket": "oreview-76c6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686236266559:android:4eaa1ac2d291101176488a",
+        "android_client_info": {
+          "package_name": "com.oreview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686236266559-pi513mghtblms2i169hquba4ae1vqltv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW2bbMK-N7G-jEQsggJTGAZvc7_bGphk8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686236266559-pi513mghtblms2i169hquba4ae1vqltv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
